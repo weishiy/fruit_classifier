@@ -1,7 +1,7 @@
 # Image Classification Project
 
 ## Overview
-This project involves building, training, and evaluating a Convolutional Neural Network (CNN) for image classification. The dataset contains 6,000 RGB images across 3 classes: tomato, cherry, and strawberry. The main objectives are to understand the image classification pipeline, implement a CNN, and explore various techniques to improve model performance.
+This project involves building, training, and evaluating a Convolutional Neural Network (CNN) for image classification. The dataset contains 6,000 RGB images across 3 classes: tomato, cherry, and strawberry. The main objectives are to understand the image classification pipeline, implement a CNN, and explore various techniques to improve model performance.(This is for course COMP309).
 
 ## Project Structure
 - **train.py**: Script to build and train the CNN model. The trained model is saved as `model.pth`.

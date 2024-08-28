@@ -11,9 +11,7 @@ This project involves building, training, and evaluating a Convolutional Neural 
 - **report.pdf**: A detailed report describing the methodology, experiments, and results.
 
 ## Important Notes
-- **Do not move or rename files or directories after the initial setup**: Moving files or directories to another location after setting up the project may cause errors. It is recommended to keep the project structure intact as provided.
-- Ensure all code runs smoothly on ECS School machines.
-- Report should not exceed 10 pages, including figures and tables.
+- **Do not plagiarize**: Please do not copy this project. I encountered an issue where I moved the project from the original C: drive to the D: drive, and the test accuracy became significantly lower than before. The accuracy is now inconsistent with the original results, and I haven't had the time to figure out the cause of this error yet.
 
 
 ## Important Links
